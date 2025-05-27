@@ -64,7 +64,7 @@ If you use COSMMIC in your research, please cite:
 ```bibtex
 @inproceedings{your2025cosmmic,
   title={COSMMIC: A Comment-Sensitive Multimodal Multilingual Corpus for Indian Language Summarization},
-  author={Your Name and Collaborators},
+  author={Raghvendra Kumar, Mohammed Salman S A, Aryan Sahu, Tridib Nandi, Pragathi Y P, Sriparna Saha, Jose G Moreno},
   booktitle={Proceedings of ACL 2025},
   year={2025}
 }
