@@ -1,7 +1,5 @@
 # COSMMIC: Comment-Sensitive Multimodal Multilingual Indian Corpus
 
-**Track: Resources and Evaluation**
-
 **COSMMIC** (Comment-Sensitive Multimodal Multilingual Indian Corpus) is the **first large-scale dataset** designed for **summarization and headline generation** across **nine major Indian languages**, with a focus on **reader feedback integration**. This dataset bridges the gap in multimodal and multilingual resources for Indian NLP, incorporating **text, user comments, and images** to support more contextual and diverse Natural Language Generation (NLG).
 
 ---
