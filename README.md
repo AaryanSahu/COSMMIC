@@ -71,15 +71,6 @@ If you use COSMMIC in your research, please cite:
 
 ---
 
-## 📬 Contact
-
-For questions or collaborations, feel free to reach out:
-
-* Aryan Sahu: [aryansahu010103@gmail.com](mailto:aryansahu010103@gmail.com)
-* GitHub Issues: [Submit here](https://github.com/your-org/cosmmic-dataset/issues)
-
----
-
 ## 🌏 Towards Inclusive NLP
 
 COSMMIC enables fair and rich modeling across diverse linguistic communities in India. We believe in fostering **inclusive, accessible AI** for all.
