@@ -15,7 +15,7 @@ Each language folder includes:
 
 ## 🔍 Key Features
 
-- **Languages**: Bengali, Hindi, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, English
+- **Languages**: Bengali, Hindi, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Odia
 - **Size**: 4,959 article-image pairs and 24,484 comments
 - **Multimodal**: Each article is associated with an image
 - **Comment-Sensitive**: Reader comments enhance contextual summarization
