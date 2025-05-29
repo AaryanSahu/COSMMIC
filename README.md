@@ -12,8 +12,12 @@ Each language folder includes:
 - `Headline`: Ground-truth headlines
 
 ---
-# Code can be found in ``CODES`` folder.
 
+### 💻 Source Code
+
+All relevant source code and scripts are organized in the `CODES` directory.
+
+---
 ## 🔍 Key Features
 
 - **Languages**: Bengali, Hindi, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, Odia
