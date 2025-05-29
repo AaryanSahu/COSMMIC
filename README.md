@@ -8,8 +8,8 @@
 
 
 Each language folder includes:
-- `SUMMARY/`: Ground-truth summaries per article
-- `HEADLINE/`: Ground-truth headlines
+- `Reference Summary`: Ground-truth summaries per article
+- `Headline`: Ground-truth headlines
 
 ---
 
