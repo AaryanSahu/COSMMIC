@@ -12,6 +12,7 @@ Each language folder includes:
 - `Headline`: Ground-truth headlines
 
 ---
+# Code can be found in ``CODES`` folder.
 
 ## 🔍 Key Features
 
