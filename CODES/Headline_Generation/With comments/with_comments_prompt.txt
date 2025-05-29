@@ -1,0 +1,24 @@
+messages=[
+        {
+            "role": "system",
+            "content": "You are an expert news editor. Your primary task is to create headlines that accurately reflect the main content of news articles. User comments should be considered as supplementary information only."
+        },
+        {
+            "role": "user",
+            "content": f"""Craft a precise and engaging news headline in {l} that primarily summarizes the main point of the article. Use insights from user comments only as secondary, supplementary information. Follow these guidelines:
+
+1. Focus predominantly (about 80-90%) on the key information and main message from the article.
+2. Subtly incorporate a minor element (about 10-20%) from the user comments to reflect public sentiment or add context.
+3. Keep the headline concise, ideally under 15 words.
+4. Use active voice and clear, impactful language.
+5. Ensure the headline is factual and directly related to the article's main content.
+6. Avoid overemphasizing or sensationalizing elements from user comments.
+
+Article content: {text}
+
+Comments:
+{comments}
+
+Headline:"""
+        }
+    ]
